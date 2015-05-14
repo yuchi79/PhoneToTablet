@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "PhoneToTablet": {
+            "applicationId": "UNbWE8OzVp8Gxv6e0EMwCJZNJacJ284TQBjiD2k4", 
+            "masterKey": "qmjdhCWaRvtlYlOEUHb9Nh7tKSZqrnJMxDtldML0"
+        }, 
+        "_default": {
+            "link": "PhoneToTablet"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.4.2"
+    }
+}
